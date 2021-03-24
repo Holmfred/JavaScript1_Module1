@@ -1,3 +1,5 @@
+//Lesson 1
+
 //Question 1
 
 const instrument = "guitar";
@@ -113,3 +115,33 @@ const product = {
 }
 
 product.getExpired();
+
+//Lesson 2
+
+//Question 1
+
+//Question 2 
+
+//Question 3 
+
+//Question 4
+
+//Question 5
+
+//Question 6
+
+//Question 7
+
+//Question 8
+
+//Question 9
+
+//Question 10
+
+//Lesson 3
+
+//Question 
+
+//Lesson 4
+
+//Question 
